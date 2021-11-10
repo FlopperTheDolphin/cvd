@@ -1,0 +1,4 @@
+name: cvd
+channels:
+  - defaults
+prefix: /home/fusco/anaconda3/envs/cvd
